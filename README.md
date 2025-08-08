@@ -1,4 +1,4 @@
-## Sou estudante de Programação e atuo atualmente no Exército Brasileiro como desenvolvedor, com foco em desenvolvimento web utilizando PHP. Possuo experiência na criação e manutenção de sistemas, buscando constantemente aprimorar minhas habilidades técnicas e adotar boas práticas de programação para entregar soluções eficientes e seguras.
+## Estudante de Programação e desenvolvedor no Exército Brasileiro, especializado em desenvolvimento web com PHP e comprometido com a criação de soluções eficientes e seguras.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivictoroff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
